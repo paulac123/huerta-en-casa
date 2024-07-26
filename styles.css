@@ -26,7 +26,7 @@ html{
 
 }
 
-.c1{background-color: aliceblue;}
+.c1{background-color: rgb(91, 216, 101);}
 .c2{background-color:darkolivegreen;}
 .c3{background-color: forestgreen;}
 
@@ -34,6 +34,6 @@ footer
 {
     background-color: brown;
 }
-.nav{
+li{
     display: inline-block;
 }
