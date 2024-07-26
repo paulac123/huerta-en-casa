@@ -34,3 +34,6 @@ footer
 {
     background-color: brown;
 }
+.nav{
+    display: inline-block;
+}
